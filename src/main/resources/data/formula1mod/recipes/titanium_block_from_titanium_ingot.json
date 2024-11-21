@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+          [
+            "###",
+            "###",
+            "###"
+          ],
+  "key":
+  {
+    "#":
+    {
+      "item": "formula1mod:titanium_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "formula1mod:titanium_block"
+  }
+}

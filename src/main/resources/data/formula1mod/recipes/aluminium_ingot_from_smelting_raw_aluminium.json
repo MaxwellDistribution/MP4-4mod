@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "aluminium_ingot",
+  "ingredient": {
+    "item": "formula1mod:raw_aluminium"
+  },
+  "result": "formula1mod:aluminium_ingot"
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base":
+  {
+    "parent": "formula1mod:item/mp4_4_summoner_3d"
+  },
+  "perspectives":
+  {
+    "gui":
+    {
+      "parent": "formula1mod:item/mp4_4_summoner_2d"
+    },
+
+    "ground":
+    {
+      "parent": "formula1mod:item/mp4_4_summoner_3d"
+    },
+
+    "fixed":
+    {
+      "parent": "formula1mod:item/mp4_4_summoner_2d"
+    }
+  }
+}

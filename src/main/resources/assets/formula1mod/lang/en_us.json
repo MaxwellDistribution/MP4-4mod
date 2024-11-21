@@ -1,0 +1,17 @@
+{
+  "item.formula1mod.trophey": "Trophey",
+  "item.formula1mod.titanium_ingot": "Titanium ingot",
+  "item.formula1mod.raw_aluminium": "Raw aluminium",
+  "item.formula1mod.aluminium_ingot": "Aluminium ingot",
+  "item.formula1mod.test_item": "TEST",
+  "item.formula1mod.mp4_4_summoner": "Mclaren MP4/4",
+
+  "block.formula1mod.asphalt_block": "Block of asphalt",
+  "block.formula1mod.titanium_block": "Block of titanium",
+  "block.formula1mod.titanium_ore": "Titanium ore",
+  "block.formula1mod.aluminium_ore": "Aluminium ore",
+  "block.formula1mod.rubbered_asphalt_block": "Block of rubbered asphalt",
+  "block.formula1mod.half_rubbered_asphalt_block": "Block of partially rubbered asphalt",
+
+  "creativetab.formula_1": "Formula 1"
+}
