@@ -184,7 +184,7 @@ public class mp4_4Entity extends LivingEntity implements PlayerRideable
                 .add(Attributes.ARMOR_TOUGHNESS, 0.0f)
                 .add(Attributes.ATTACK_KNOCKBACK, 0.0f)
                 .add(Attributes.ATTACK_DAMAGE, 0.0f)
-                .add(Attributes.KNOCKBACK_RESISTANCE, 0.8f);
+                .add(Attributes.KNOCKBACK_RESISTANCE, 0.9f);
     }
 
     @Override
