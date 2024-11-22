@@ -27,6 +27,7 @@ public class mp4_4Entity extends LivingEntity implements PlayerRideable
     public mp4_4Entity(EntityType<mp4_4Entity> pEntityType, Level pLevel)
     {
         super(pEntityType, pLevel);
+        this.setMaxUpStep(0.5F);
     }
 
     int Gear = 0;
@@ -143,6 +144,12 @@ public class mp4_4Entity extends LivingEntity implements PlayerRideable
         }
 
         return friction;
+    }
+
+    @Override
+    public float maxUpStep()
+    {
+        return 0.5f;
     }
 
     @Override
