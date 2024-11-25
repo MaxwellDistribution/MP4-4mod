@@ -797,15 +797,15 @@ public class mp4_4Entity extends LivingEntity implements PlayerRideable
             if(IsSliding && Math.abs(slideAngleDegrees - viewAngle) <= 30 && this.getDeltaMovement().horizontalDistance() < 0.1)
             {
                 //System.out.println(Math.abs(slideAngleDegrees - viewAngle) + "LESS than 30");
-                System.out.println(Math.abs(slideAngleDegrees) + "Slide");
-                System.out.println(Math.abs(viewAngle) + "View");
+                //System.out.println(Math.abs(slideAngleDegrees) + "Slide");
+                //System.out.println(Math.abs(viewAngle) + "View");
                 return true;
             }
             else if(IsSliding && Math.abs(slideAngleDegrees - viewAngle) > 30)
             {
                 //System.out.println(Math.abs(slideAngleDegrees - viewAngle) + "MORE than 30");
-                System.out.println(Math.abs(slideAngleDegrees) + "Slide");
-                System.out.println(Math.abs(viewAngle) + "View");
+                //System.out.println(Math.abs(slideAngleDegrees) + "Slide");
+                //System.out.println(Math.abs(viewAngle) + "View");
                 return true;
             }
             else
